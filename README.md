@@ -1,0 +1,2 @@
+# A quick demonstration of the Monty Hall Problem #
+simulates 10,000 games where the contestant does not switch doors after the host reveals one losing door, and 10,000 where the contestant does switch
