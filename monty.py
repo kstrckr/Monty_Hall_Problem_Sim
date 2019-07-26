@@ -45,7 +45,6 @@ class contestant:
                 break
 
 class host:
-    
     def reveal_one_door(self, doors):
         for door in doors:
             if not door.isRevealed and door.content == 1:
